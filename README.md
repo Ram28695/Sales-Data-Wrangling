@@ -1,3 +1,4 @@
+
 # Sales Dataset Wrangling Project
 
 ##  Objective
@@ -42,3 +43,4 @@ The goal is to remove inconsistencies, handle missing values, standardize format
 2. Install dependencies:
    ```bash
    pip install pandas numpy
+
